@@ -1,7 +1,7 @@
 import View from './View.js'
 
 import icons from '../../img/icons.svg'
-import { Fraction } from 'fractional'
+import { fracty } from 'fracty'
 
 class PreviewView extends View {
   _parentElement = ''
